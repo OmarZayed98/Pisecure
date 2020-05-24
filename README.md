@@ -10,6 +10,8 @@ Keep in mind the ip address should be the one associated with you raspberry pi.
 
 NOTE: We did not include our model trainer or the datasets in the project.
 
+You also need to fill in the email information in send_mail.py
+
 How to run
 1) add users then run addingUsers.py script
 2)  run the trainingTheModel.py
