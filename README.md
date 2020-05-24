@@ -1,6 +1,7 @@
 # Pisecure
 This project was developed by Omar Zayed and Vanessa Lama. 
-We recieved a lot of help from the online tutorials offered by pyimagesearch
+We recieved a lot of help from the online tutorials offered by pyimagesearch.
+
 This is a raspberry pi  face recognition program that notifies that with email notification and annouces it with a speaker.
 it also streams to local ip address.
 
