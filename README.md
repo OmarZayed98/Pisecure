@@ -2,6 +2,8 @@
 This project was developed by Omar Zayed and Vanessa Lama. 
 We recieved a lot of help from online tutorials offered by pyimagesearch.
 
+
+
 This is a raspberry pi, face recognition program that notifies detection with email and annouces it with a speaker.
 It also streams to local ip address.
 
@@ -19,6 +21,9 @@ How to run:
 3) run the streamAndFaceRecognition.py as stated above.
 
 Result: 
+
+
+
 ![](Images/Image.jpeg)
 Resources:
 https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/
