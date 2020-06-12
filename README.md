@@ -9,8 +9,9 @@ To run the main file:  streamAndFaceRecognition.py --ip 0.0.0.0 --port 8000
 Keep in mind the ip address should be the one associated with you raspberry pi.
 
 NOTE: We did not include our model trainer or the datasets in the project.
-
       You also need to fill in the email information in send_mail.py
+
+      
 
 How to run:
 1) add users then run addingUsers.py script
@@ -18,7 +19,7 @@ How to run:
 3) run the streamAndFaceRecognition.py as stated above.
 
 Result: 
-
+![](Images/Image.jpeg)
 Resources:
 https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
