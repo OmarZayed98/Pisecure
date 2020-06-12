@@ -22,10 +22,8 @@ Result:
 
 
 
-![](Images/Image.jpeg)
-![](Image1.jpeg) 
-![](Image2.jpeg) 
-![](Image3.jpeg)
+![](Images/Image.jpeg) ![](Images/Image1.jpeg) 
+![](Images/Image2.jpeg) ![](Images/Image3.jpeg)
 
 
 
