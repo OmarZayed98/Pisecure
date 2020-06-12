@@ -1,9 +1,7 @@
 # Pisecure
+![](Images/pi.jpg)
 This project was developed by Omar Zayed and Vanessa Lama. 
 We recieved a lot of help from online tutorials offered by pyimagesearch.
-
-
-
 This is a raspberry pi, face recognition program that notifies detection with email and annouces it with a speaker.
 It also streams to local ip address.
 
@@ -24,8 +22,10 @@ Result:
 
 
 
-![](Images/Image.jpeg)
+![](Images/Image.jpeg) ![](Image1.jpeg) ![](Image2.jpeg) ![](Image3.jpeg)
 Resources:
+
+
 https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
 https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
